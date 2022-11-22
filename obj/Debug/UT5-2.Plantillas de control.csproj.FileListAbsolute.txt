@@ -1,0 +1,16 @@
+C:\Users\alumno\source\repos\UT5-2.Plantillas de control\bin\Debug\UT5-1.Plantillas de datos.exe.config
+C:\Users\alumno\source\repos\UT5-2.Plantillas de control\bin\Debug\UT5-1.Plantillas de datos.exe
+C:\Users\alumno\source\repos\UT5-2.Plantillas de control\bin\Debug\UT5-1.Plantillas de datos.pdb
+C:\Users\alumno\source\repos\UT5-2.Plantillas de control\obj\Debug\UT5-2.Plantillas de control.csproj.AssemblyReference.cache
+C:\Users\alumno\source\repos\UT5-2.Plantillas de control\obj\Debug\MainWindow.g.cs
+C:\Users\alumno\source\repos\UT5-2.Plantillas de control\obj\Debug\App.g.cs
+C:\Users\alumno\source\repos\UT5-2.Plantillas de control\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\alumno\source\repos\UT5-2.Plantillas de control\obj\Debug\UT5-1.Plantillas de datos_MarkupCompile.cache
+C:\Users\alumno\source\repos\UT5-2.Plantillas de control\obj\Debug\UT5-1.Plantillas de datos_MarkupCompile.lref
+C:\Users\alumno\source\repos\UT5-2.Plantillas de control\obj\Debug\MainWindow.baml
+C:\Users\alumno\source\repos\UT5-2.Plantillas de control\obj\Debug\UT5-1.Plantillas de datos.g.resources
+C:\Users\alumno\source\repos\UT5-2.Plantillas de control\obj\Debug\UT5_1.Plantillas_de_datos.Properties.Resources.resources
+C:\Users\alumno\source\repos\UT5-2.Plantillas de control\obj\Debug\UT5-2.Plantillas de control.csproj.GenerateResource.cache
+C:\Users\alumno\source\repos\UT5-2.Plantillas de control\obj\Debug\UT5-2.Plantillas de control.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\UT5-2.Plantillas de control\obj\Debug\UT5-1.Plantillas de datos.exe
+C:\Users\alumno\source\repos\UT5-2.Plantillas de control\obj\Debug\UT5-1.Plantillas de datos.pdb
